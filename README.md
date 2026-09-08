@@ -45,24 +45,24 @@ Choose your preferred method:
 
 ```bash
 # Using uv (recommended — installs in an isolated environment)
-uv tool install git+https://github.com/RichardAtCT/claude-code-telegram@v1.3.0
+uv tool install git+https://github.com/izmukovvladimir-cyber/claude-code-telegram@v1.3.0
 
 # Or using pip
-pip install git+https://github.com/RichardAtCT/claude-code-telegram@v1.3.0
+pip install git+https://github.com/izmukovvladimir-cyber/claude-code-telegram@v1.3.0
 
 # Track the latest stable release
-pip install git+https://github.com/RichardAtCT/claude-code-telegram@latest
+pip install git+https://github.com/izmukovvladimir-cyber/claude-code-telegram@latest
 ```
 
 #### Option B: From source (for development)
 
 ```bash
-git clone https://github.com/RichardAtCT/claude-code-telegram.git
+git clone https://github.com/izmukovvladimir-cyber/claude-code-telegram.git
 cd claude-code-telegram
 make dev  # requires Poetry
 ```
 
-> **Note:** Always install from a tagged release (not `main`) for stability. See [Releases](https://github.com/RichardAtCT/claude-code-telegram/releases) for available versions.
+> **Note:** Always install from a tagged release (not `main`) for stability. See [Releases](https://github.com/izmukovvladimir-cyber/claude-code-telegram/releases) for available versions.
 
 ### 3. Configure
 
